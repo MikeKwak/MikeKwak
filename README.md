@@ -8,10 +8,11 @@ const program = 'Software Engineering'
 
 const interests = ['frontend', 'backend', 'machine learning'];
 ```
-
-
 <p align="center">
-  <h1>Programming Languages</h1>
+<h1>Programming Languages</h1>
+</p>  
+<p align="center">
+  
   <img src="./images/java.svg" width="28" height="28">
   <img src="./images/python.svg" width="28" height="28">
   <img src="./images/c++.svg" width="28" height="28">
