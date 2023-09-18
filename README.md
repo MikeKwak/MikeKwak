@@ -11,32 +11,29 @@ const interests = ['frontend', 'backend', 'machine learning'];
 ```
 
 # skills ⚙️
+##### Programming Languages
+<img align="left" src="./images/java.svg" width="28" height="28">
+<img align="left" src="./images/python.svg" width="28" height="28">
+<img align="left" src="./images/c++.svg" width="28" height="28">
+<img align="left" src="./images/html.svg" width="28" height="28">
+<img align="left" src="./images/css3.svg" width="28" height="28">
+<img align="left" src="./images/javascript.svg" width="28" height="28">
+<img align="left" src="./images/typescript.svg" width="28" height="28">
+<img align="left" src="./images/dart.png" width="28" height="28">
+<br/>
 
-<p align="center">##### Programming Languages
-  <img align="left" src="./images/java.svg" width="28" height="28">
-  <img align="left" src="./images/python.svg" width="28" height="28">
-  <img align="left" src="./images/c++.svg" width="28" height="28">
-  <img align="left" src="./images/html.svg" width="28" height="28">
-  <img align="left" src="./images/css3.svg" width="28" height="28">
-  <img align="left" src="./images/javascript.svg" width="28" height="28">
-  <img align="left" src="./images/typescript.svg" width="28" height="28">
-  <img align="left" src="./images/dart.svg" width="28" height="28">
-</p>
+#####  Databases/Cloud Services
+<img align="left" src="./images/mongodb.svg" width="28" height="28">
+<img align="left"  src="./images/mysql.svg" width="28" height="28">
+<img align="left" src="./images/firebase.svg" width="28" height="28">
+<img align="left" src="./images/aws.png" width="28" height="28"><br/>
 
-<p align="center">##### Databases/Cloud Services
-  <img align="left" src="./images/mongodb.svg" width="28" height="28">
-  <img align="left" src="./images/mysql.svg" width="28" height="28">
-  <img align="left" src="./images/firebase.svg" width="28" height="28">
-  <img align="left" src="./images/aws.png" width="28" height="28">
-</p>
-
-<p align="center">##### Tools/Frameworks
-  <img align="left" src="./images/react.svg" width="28" height="28">
-  <img align="left" src="./images/android.svg" width="28" height="28">
-  <img align="left" src="./images/threejs.png" width="28" height="28">
-  <img align="left" src="./images/node.png" width="28" height="28">
-  <img align="left" src="./images/nextjs.png" width="28" height="28">
-  <img align="left" src="./images/tensorflow.png" width="28" height="28">
-  <img align="left" src="./images/git.svg" width="28" height="28">
-  <img align="left" src="./images/jira.svg" width="28" height="28">
-</p>
+#####  Tools/Frameworks
+<img align="left" src="./images/react.svg" width="28" height="28">
+<img align="left" src="./images/android.svg" width="28" height="28">
+<img align="left" src="./images/threejs.png" width="28" height="28">
+<img align="left" src="./images/node.png" width="28" height="28">
+<img align="left" src="./images/nextjs.png" width="28" height="28">
+<img align="left" src="./images/tensorflow.png" width="28" height="28">
+<img align="left" src="./images/git.svg" width="28" height="28">
+<img align="left" src="./images/jira.svg" width="28" height="28"><br/> 
