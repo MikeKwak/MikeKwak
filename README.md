@@ -9,8 +9,9 @@ const program = 'Software Engineering'
 const interests = ['frontend', 'backend', 'machine learning'];
 ```
 
-##### Programming Languages
+
 <p align="center">
+  ##### Programming Languages
   <img src="./images/java.svg" width="28" height="28">
   <img src="./images/python.svg" width="28" height="28">
   <img src="./images/c++.svg" width="28" height="28">
