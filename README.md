@@ -12,14 +12,14 @@ const interests = ['frontend', 'backend', 'machine learning'];
 ##### Programming Languages
 
 <p align="center">
-<img align="left" src="./images/java.svg" width="28" height="28">
-<img align="left" src="./images/python.svg" width="28" height="28">
-<img align="left" src="./images/c++.svg" width="28" height="28">
-<img align="left" src="./images/html.svg" width="28" height="28">
-<img align="left" src="./images/css3.svg" width="28" height="28">
-<img align="left" src="./images/javascript.svg" width="28" height="28">
-<img align="left" src="./images/typescript.svg" width="28" height="28">
-<img align="left" src="./images/dart.png" width="28" height="28">
+<img src="./images/java.svg" width="28" height="28">
+<img src="./images/python.svg" width="28" height="28">
+<img src="./images/c++.svg" width="28" height="28">
+<img src="./images/html.svg" width="28" height="28">
+<img src="./images/css3.svg" width="28" height="28">
+<img src="./images/javascript.svg" width="28" height="28">
+<img src="./images/typescript.svg" width="28" height="28">
+<img src="./images/dart.png" width="28" height="28">
 <br/>
 </p>
 
