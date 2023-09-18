@@ -8,7 +8,7 @@ const program = 'Software Engineering'
 
 const interests = ['frontend', 'backend', 'machine learning'];
 ```
-<p align="center">Programming Languages</p>  
+<p align="center"><h5>Programming Languages</h5></p>  
 <p align="center">
   
   <img src="./images/java.svg" width="28" height="28">
@@ -29,7 +29,7 @@ const interests = ['frontend', 'backend', 'machine learning'];
   <img src="./images/aws.png" width="28" height="28"><br/>
 </p>
 
-<p align="center">Tools/Frameworks</p>
+<p align="center"><h5>Tools/Frameworks</h5></p>
 <p align="center">
   <img src="./images/react.svg" width="28" height="28">
   <img src="./images/android.svg" width="28" height="28">
