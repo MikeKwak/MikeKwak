@@ -25,10 +25,10 @@ const interests = ['frontend', 'backend', 'machine learning'];
 
 #####  Databases/Cloud Services
 <p align="center">
-  <img src="./images/mongodb.svg" width="28" height="28">
-  <img src="./images/mysql.svg" width="28" height="28">
-  <img src="./images/firebase.svg" width="28" height="28">
-  <img src="./images/aws.png" width="28" height="28"><br/>
+  <img align="left" src="./images/mongodb.svg" width="28" height="28">
+  <img align="left  src="./images/mysql.svg" width="28" height="28">
+  <img align="left" src="./images/firebase.svg" width="28" height="28">
+  <img align="left" src="./images/aws.png" width="28" height="28"><br/>
 </p>
 #####  Tools/Frameworks
 <img align="left" src="./images/nextjs.png" width="28" height="28">
