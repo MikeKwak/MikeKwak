@@ -10,6 +10,6 @@ const program = 'Software Engineering'
 const interests = ['frontend', 'backend', 'machine learning'];
 ```
 
-#skills ⚙️
+# skills ⚙️
 
 
