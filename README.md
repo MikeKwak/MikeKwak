@@ -1,6 +1,6 @@
 # 🚀 Welcome to My Github! 🚀
 
-Hello! I'm Mike Kwak, born in Seoul, South Korea and moved to Vancouver 8 years ago. Now, I do full-stack development, artificial intelligence and skateboarding.
+Hello! I'm Mike Kwak, born in Seoul, South Korea and moved to Vancouver 8 years ago. Now, I do full-stack development, machine learning and skateboarding.
 
 ```javascript
 const school = 'University of Waterloo';
