@@ -15,7 +15,7 @@ const interests = ['frontend', 'backend', 'machine learning'];
   
 
 ##### Programming Languages
-<img align="left" src="./images/html.svg" width="28" height="28">
+<img align="" src="./images/html.svg" width="28" height="28">
 <img align="left" src="./images/css3.svg" width="28" height="28">
 <img align="left" src="./images/javascript.svg" width="28" height="28">
 <img align="left" src="./images/typescript.svg" width="28" height="28">
@@ -24,10 +24,10 @@ const interests = ['frontend', 'backend', 'machine learning'];
 <img align="left" src="./images/c++.svg" width="28" height="28"><br/>
 
 #####  Databases/Cloud Services
-<img align="left" src="./images/mongodb.svg" width="28" height="28">
-<img align="left" src="./images/mysql.svg" width="28" height="28">
-<img align="left" src="./images/firebase.svg" width="28" height="28">
-<img align="left" src="./images/aws.png" width="28" height="28"><br/>
+<img align="center" src="./images/mongodb.svg" width="28" height="28">
+<img align="center" src="./images/mysql.svg" width="28" height="28">
+<img align="center" src="./images/firebase.svg" width="28" height="28">
+<img align="center" src="./images/aws.png" width="28" height="28"><br/>
 
 #####  Tools/Frameworks
 <img align="left" src="./images/nextjs.png" width="28" height="28">
