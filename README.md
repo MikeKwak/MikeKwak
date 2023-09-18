@@ -11,7 +11,7 @@ const interests = ['frontend', 'backend', 'machine learning'];
 
 
 <p align="center">
-  ##### Programming Languages
+  <p>##### Programming Languages</p>
   <img src="./images/java.svg" width="28" height="28">
   <img src="./images/python.svg" width="28" height="28">
   <img src="./images/c++.svg" width="28" height="28">
