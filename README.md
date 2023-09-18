@@ -36,4 +36,4 @@ const interests = ['frontend', 'backend', 'machine learning'];
 <img align="left" src="./images/git.svg" width="28" height="28">
 <img align="left" src="./images/jira.svg" width="28" height="28"><br/> 
 
-##Connect with me!
+## Connect with me!
