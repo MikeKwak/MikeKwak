@@ -36,7 +36,3 @@ const interests = ['frontend', 'backend', 'machine learning'];
 <img align="left" src="./images/jira.svg" width="28" height="28">
 <img align="left" src="./images/confluence.svg" width="28" height="28"><br/>
 
-##### IoT
-<img align="left" src="./images/arduino.svg" width="28" height="28">
-<img align="left" src="./images/raspberry-pi.svg" width="28" height="28"><br/>
-
