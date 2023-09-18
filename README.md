@@ -9,7 +9,7 @@ const program = 'Software Engineering'
 const interests = ['frontend', 'backend', 'machine learning'];
 ```
 <p align="center">
-<h1>Programming Languages</h1>
+<h3>Programming Languages</h1>
 </p>  
 <p align="center">
   
