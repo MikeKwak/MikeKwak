@@ -21,22 +21,24 @@ const interests = ['frontend', 'backend', 'machine learning'];
 <img src="./images/typescript.svg" width="28" height="28">
 <img src="./images/dart.png" width="28" height="28">
 <br/>
+
+  #####  Databases/Cloud Services
+<img src="./images/mongodb.svg" width="28" height="28">
+<img src="./images/mysql.svg" width="28" height="28">
+<img src="./images/firebase.svg" width="28" height="28">
+<img src="./images/aws.png" width="28" height="28"><br/>
 </p>
 
-#####  Databases/Cloud Services
-<img align="left" src="./images/mongodb.svg" width="28" height="28">
-<img align="left"  src="./images/mysql.svg" width="28" height="28">
-<img align="left" src="./images/firebase.svg" width="28" height="28">
-<img align="left" src="./images/aws.png" width="28" height="28"><br/>
+
 
 #####  Tools/Frameworks
-<img align="left" src="./images/react.svg" width="28" height="28">
-<img align="left" src="./images/android.svg" width="28" height="28">
-<img align="left" src="./images/threejs.png" width="28" height="28">
-<img align="left" src="./images/node.png" width="28" height="28">
-<img align="left" src="./images/nextjs.png" width="28" height="28">
-<img align="left" src="./images/tensorflow.png" width="28" height="28">
-<img align="left" src="./images/git.svg" width="28" height="28">
-<img align="left" src="./images/jira.svg" width="28" height="28"><br/> 
+<img src="./images/react.svg" width="28" height="28">
+<img src="./images/android.svg" width="28" height="28">
+<img src="./images/threejs.png" width="28" height="28">
+<img src="./images/node.png" width="28" height="28">
+<img src="./images/nextjs.png" width="28" height="28">
+<img src="./images/tensorflow.png" width="28" height="28">
+<img src="./images/git.svg" width="28" height="28">
+<img src="./images/jira.svg" width="28" height="28"><br/> 
 
 ## 🤓 Connect with me!
