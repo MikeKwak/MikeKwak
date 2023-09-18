@@ -17,7 +17,6 @@ const interests = ['frontend', 'backend', 'machine learning'];
 <img align="left" src="./images/java.svg" width="28" height="28">
 <img align="left" src="./images/python.svg" width="28" height="28">
 <img align="left" src="./images/c++.svg" width="28" height="28">
-<img align="left" src="./images/ruby.svg" width="28" height="28">
 <img align="left" src="./images/html.svg" width="28" height="28">
 <img align="left" src="./images/css3.svg" width="28" height="28"><br/>
 
@@ -28,12 +27,11 @@ const interests = ['frontend', 'backend', 'machine learning'];
 
 #####  Tools/Frameworks
 <img align="left" src="./images/nextjs.png" width="28" height="28">
-<img align="left" src="./images/django.svg" width="28" height="28">
 <img align="left" src="./images/android.svg" width="28" height="28">
 <img align="left" src="./images/react.svg" width="28" height="28">
 <img align="left" src="./images/node.png" width="28" height="28">
-<img align="left" src="./images/graphql.svg" width="28" height="28">
-<img align="left" src="./images/flask.svg" width="28" height="28">
+<!-- <img align="left" src="./images/graphql.svg" width="28" height="28"> -->
+<!-- <img align="left" src="./images/flask.svg" width="28" height="28"> -->
 <img align="left" src="./images/git.svg" width="28" height="28">
 <img align="left" src="./images/jira.svg" width="28" height="28">
 <img align="left" src="./images/confluence.svg" width="28" height="28"><br/>
