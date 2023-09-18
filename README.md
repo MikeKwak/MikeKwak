@@ -6,8 +6,6 @@ Hello! I'm Mike Kwak, a 2nd-year Software Engineering student from the Universit
 const name = 'Mike Kwak';
 
 const school = 'University of Waterloo';
-
 const program = 'Software Engineering'
-const year = 2;
 
 const interests = ['frontend', 'backend', 'machine learning'];
