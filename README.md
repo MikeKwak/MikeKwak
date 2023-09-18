@@ -1,8 +1,6 @@
 ## 🚀 Welcome to My Github! 🚀
 
-Hello! I'm Mike Kwak, a 2nd-year Software Engineering student in the University of Waterloo. 
-I'm deeply passionate about software development, driven by a relentless curiosity that spans both front-end and back-end realms, 
-and a budding interest in machine learning!
+Hello! I'm Mike Kwak, born in Seoul, South Korea and raised in Vancouver. I love web development and skateboarding.
 
 ```javascript
 const name = 'Mike Kwak';
