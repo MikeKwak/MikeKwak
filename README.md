@@ -10,7 +10,6 @@ const program = 'Software Engineering'
 const interests = ['frontend', 'backend', 'machine learning'];
 ```
 
-# skills ⚙️
 ##### Programming Languages
 <img align="left" src="./images/java.svg" width="28" height="28">
 <img align="left" src="./images/python.svg" width="28" height="28">
